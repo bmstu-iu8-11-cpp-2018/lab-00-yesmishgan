@@ -1,3 +1,4 @@
+dust: trusty
 language: cpp
 sudo: true
 
